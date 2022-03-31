@@ -1,7 +1,10 @@
 from data import ReadDatas
 from fastapi import FastAPI
 import os 
-
+import sys
+from pathlib import Path
+DIR = Path(__file__).absolute().parent
+sys.path.append(str(DIR))
 data = ReadDatas()
 data.main()
 
