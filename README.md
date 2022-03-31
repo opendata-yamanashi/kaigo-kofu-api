@@ -1,8 +1,8 @@
-# 甲府市内指定文化財一覧 API
-甲府市内指定文化財一覧
+# 介護サービス事業所一覧 API
+介護サービス事業所一覧
 
 ## 出典:
-* [甲府市内指定文化財一覧](https://www.city.kofu.yamanashi.jp/joho/opendata/shisetsu/index.html)
+* [介護サービス事業所一覧](https://www.city.kofu.yamanashi.jp/joho/opendata/shisetsu/index.html)
 
 ## API 仕様
 (後で書く)
@@ -14,7 +14,7 @@
 
 * how to setup  
 ```
-$ git clone https://github.com/opendata-yamanashi/kofu_aed_api
+$ git clone https://github.com/opendata-yamanashi/kaigo_kofu_api
 $ pip install -r requirements.txt
 ```
 * access my application!
